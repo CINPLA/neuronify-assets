@@ -27,7 +27,9 @@ body {
 #downloadUNIX,
 #downloadMacOS,
 #downloadLinux,
-#downloadWindows {
+#downloadWindows,
+#downloadAndroid,
+#downloadiOS {
   display: none;
 }
 .knownOS {
